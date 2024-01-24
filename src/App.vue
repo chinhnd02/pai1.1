@@ -34,7 +34,8 @@ export default {
 }
 
 body {
-  background-image: url("D:\Tokyo_Tech_Lab\btap\bai1\bai1\src\assets\Group.png");
+  background-image: url("./assets/Group.png");
+  /* ../assets/Design.png */
 }
 
 .title {
